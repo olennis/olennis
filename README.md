@@ -1,7 +1,20 @@
-<div align='right'>
+ 
+<div align='center'>
+  <img src='https://user-images.githubusercontent.com/59818904/137610355-95738e4c-ba13-4e9d-adb1-48430eabbaf1.PNG' width='200px' height='200px' align='center'/>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folennis%2Fhit-counter&count_bg=%23F37321&title_bg=%232B3F6B&icon=&icon_color=%23E7E7E7&title=hi%21&edge_flat=false" /></a>
+  <br>
+  <p>
+    <strong>Hello, I'm Donghun.</strong>
+    
+  </p>
 </div>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=olennis)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<div align='center' >
+  <img src='https://github-readme-stats.vercel.app/api?username=olennis&theme=calm&_icons=true' />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=olennis&theme=calm&_icons=true' height='195px'/>
+</div>
+
 
 
 <!--
@@ -18,3 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  
+</div>
+
