@@ -8,12 +8,12 @@
 Hello, I'm Donghun.
 </div>
 <div align='center' >
-  <img src='https://user-images.githubusercontent.com/59818904/137610355-95738e4c-ba13-4e9d-adb1-48430eabbaf1.PNG' width='200px' height='200px' align='left'/>
+  
   <img src='https://github-readme-stats.vercel.app/api?username=olennis&theme=calm&_icons=true' width='500px' align='left' />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=olennis&theme=calm&_icons=true' height='195px'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=olennis&theme=calm&_icons=true' height='195px' align='left'/>
  
 </div>
-
+<img src='https://user-images.githubusercontent.com/59818904/137610355-95738e4c-ba13-4e9d-adb1-48430eabbaf1.PNG' width='200px' height='200px'/>
 
 
 <!--
