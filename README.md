@@ -7,12 +7,6 @@
  <img src='https://user-images.githubusercontent.com/59818904/137648699-b979203d-6357-4aed-b5d6-4e3a0213317f.PNG' width='300px' height='300px'/>
 </div>
 
-<div align='center' >
-  <img src='https://github-readme-stats.vercel.app/api?username=olennis&theme=calm&_icons=true' align='center' />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=olennis&theme=calm&_icons=true' align='center' height='195px'/>
-</div>
-
-
 <!--
 **olennis/olennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
