@@ -5,6 +5,7 @@
 </div>
 <div align='center'>
  <img src='https://user-images.githubusercontent.com/59818904/137648699-b979203d-6357-4aed-b5d6-4e3a0213317f.PNG' width='300px' height='300px'/>
+ ![bio](https://github.com/olennis/olennis/blob/main/github-readme.gif)
 </div>
 
 <!--
